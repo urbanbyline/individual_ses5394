@@ -50,7 +50,7 @@ po/*~
 rsconnect/
 
 # Large files from NHTS
-data/
+data/NHTS
 
 # All model input and output
 model/outputs/
