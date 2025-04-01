@@ -62,3 +62,5 @@ model/ui/
 
 # large intermediate data files from P4
 P4/data/
+
+P4/kingston-network
